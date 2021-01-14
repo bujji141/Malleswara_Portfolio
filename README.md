@@ -1,10 +1,10 @@
 # Malleswara_Portfolio
 Who - What - How with ML
 
-Day to Day learning and building a portfolio is really fun 
-Yes, this is not only start with the Python, 
-Should start from the interest of palying with data to win 
-Apend the knowledge and reramp the prediction for Marathon 
+*Day to Day learning and building a portfolio is really fun 
+*Yes, this is not only start with the Python, 
+*Should start from the interest of palying with data to win 
+*Apend the knowledge and reramp the prediction for Marathon 
 
 where to begin the journey , simple steps are always better right 
 
